@@ -39,3 +39,12 @@ graph LR
 The dashboard utilizes Python scripts running directly inside Power BI's query editor to handle data processing and visualization plotting (using Matplotlib), as seen below:
 
 ![Python Script Editor in Power BI](powerbi_python_integration.png)
+
+---
+
+### Results & Impact
+
+By moving from a single node (NJ) to a dual node (NJ + NV) network, the simulation demonstrated:
+1. **Cost Savings**: The logic identified Nevada (NV) as the optimal second node, reducing Zone 8 freight spend by ~18%.
+2. **Speed**: West Coast delivery times dropped from 5 days (Cross-country) to 1 day (Local).
+3. **Agility**: The tool allows the logistics team to simulate seasonal shifts (e.g., "Where should we be during Q4 Holiday Rush?") in seconds.
