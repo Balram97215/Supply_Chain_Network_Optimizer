@@ -6,8 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-![Dashboard Demo](Supply_Chain_Network_Optimizer/dashboard_interaction.gif)
-
 ---
 
 ## 🎯 The Project at a Glance
@@ -21,7 +19,7 @@ Instead of using static Excel analysis to decide where to open a new warehouse, 
 ### 📸 Simulation View
 The visual below demonstrates the dynamic calculating engine. The **Red X** represents the mathematically optimal hub location based on the weighted volume of the filtered zones.
 
-![Dynamic CoG Map](Supply_Chain_Network_Optimizer/cog_map_zoom.png)
+![Dynamic CoG Map](cog_map_zoom.png)
 
 > **Business Impact:** The simulation identified a dual-node network (NJ + NV) that reduces West Coast freight costs by **~18%** and cuts delivery times by **4 days**.
 
