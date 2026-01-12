@@ -34,3 +34,8 @@ graph LR
     A[🛒 Python Generator] -->|Synthetic Data| B[📊 Power BI Model]
     B -->|User Filters| C[🐍 Python Script Visual]
     C -->|Real-Time CoG Math| D[📍 Dynamic Map]
+```
+### 💻 Technical Implementation
+The dashboard utilizes Python scripts running directly inside Power BI's query editor to handle data processing and visualization plotting (using Matplotlib), as seen below:
+
+![Python Script Editor in Power BI](powerbi_python_integration.png)
